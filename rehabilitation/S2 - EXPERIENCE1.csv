@@ -1,0 +1,15 @@
+ID,1. To what extent did you lose track of time? (1-5),2. To what extent were you interested in seeing how the game events would progress? (1-5),3. To what extent did you feel that the glove control was easy to pick up? (1-5),4. To what extent did you feel as though you were separated from your real-world environment? (1-5),5. To what extent did you feel motivated while playing? (1-5),6. What motivated you the most in the game?,7. At any point did you find yourself become so involved that you were unaware you were even using controls? (1-5),8. To what extent did you feel that the haptic feedback added a sense of reality to the game? (1-5),9. Were you in suspense about whether or not you would win or lose the game? (1-5),10. To what extent did you feel that the haptic feedback added a sense of enjoyment to the game? (1-5),11. At any point did you find yourself become so involved that you were unaware you were wearing gloves? (1-5),12. To what extent did you feel you were focused on the game? (1-5)
+1,5,4,3,4,5,Virtual scene,3,5,1,5,1,4
+2,4,5,4,3,5,"Virtual scene, Force feedback",3,4,5,4,3,4
+3,4,4,3,4,5,"Graphics, Force feedback",4,4,4,4,3,5
+4,2,5,4,2,5,Interactivity,4,3,5,4,2,4
+5,4,5,3,4,4,Virtual scene,3,4,4,5,3,5
+6,4,4,3,4,4,"Virtual scene, Interactivity",2,4,3,4,2,3
+7,3,5,3,5,5,Interactivity,3,4,5,5,3,3
+8,5,4,4,4,5,"Interactivity, Immersiveness, Force feedback",4,5,5,5,3,5
+9,2,3,3,3,4,Novelty,2,4,3,4,2,3
+10,5,5,4,5,5,Immersiveness,5,5,5,4,4,5
+11,4,4,3,3,3,Interactivity,3,3,3,4,3,3
+12,5,4,4,5,4,Cat's sound,2,4,3,5,1,4
+13,2,4,4,3,4,"Force feedback, Storyline",3,4,4,4,2,4
+14,5,5,4,4,4,Interactivity,4,4,4,5,4,4

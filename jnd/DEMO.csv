@@ -1,0 +1,25 @@
+ID,Order Group,1. How old are you? ,3. What is the highest degree or level of education you have completed?,4. What is your occupation? (specify your major if it is student),5. Do you have any experience using VR devices or applications? ,6. Do you have any experience using force feedback gloves? 
+01,A,25,Master's degree,EEE,No,No
+02,A,21,Bachelor's degree,EEE,Limited,No
+03,B,37,PhD,Teacher,No,No
+04,B,22,Master's degree,EEE,No,No
+05,A,22,Master's degree,EEE,No,No
+06,A,22,Master's degree,EEE,No,No
+07,B,23,Master's degree,EEE,No,No
+08,B,22,Master's degree,EEE,No,No
+09,B,24,Master's degree,EEE,No,No
+10,B,31,PhD,ME,Limited,No
+11,A,23,Master's degree,EEE,No,No
+12,B,23,Master's degree,EEE,No,No
+13,A,24,Master's degree,EEE,Limited,No
+14,B,23,Master's degree,EEE,No,No
+15,A,22,Master's degree,EEE,No,No
+16,B,24,Master's degree,EEE,No,No
+17,B,24,Master's degree,EEE,Limited,No
+18,A,19,High school,EEE,No,No
+19,A,24,Master's degree,EEE,Limited,No
+20,A,24,Master's degree,EEE,No,No
+21,B,21,Bachelor's degree,EEE,Limited,No
+22,A,23,High school,EEE,No,No
+23,B,21,Bachelor's degree,EEE,No,No
+24,A,20,High school,EEE,No,No

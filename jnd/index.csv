@@ -1,0 +1,11 @@
+,Title,"Measuring Just Noticeable Differences in Virtual Stiffness Perception"
+,Authors,Qisong Wang
+,,Per Ola Kristensson
+,Description,"Experimental data from a study investigating human perception of stiffness differences in virtual environments. The study examined participants' ability to discriminate between different stiffness levels under high (0.4) and low (0.1) reference stiffness conditions."
+,Keywords,"virtual reality, haptic perception, stiffness discrimination, psychophysics, just noticeable difference"
+,Format,.csv
+,,
+,File,Description
+,DEMO.csv,"Demographic information for all participants (15-24), including age, education level, occupation, order group (A/B), and prior experience with VR devices and force feedback gloves"
+,NASATLX.csv,"NASA Task Load Index data for both conditions (High/Low Reference Stiffness), including ratings (0-10) for mental demand, physical demand, temporal demand, effort, frustration, and performance, plus pairwise comparisons between dimensions"
+,PARTICIPANT_TRIALS.csv,"Combined trial data for all participants (15-24), including participant ID, order group (A/B), condition (High/Low Reference Stiffness), trial number, reference stiffness (0.4/0.1), test stiffness, stiffness difference (%), trial duration (s), catch trial flag, and response correctness" 

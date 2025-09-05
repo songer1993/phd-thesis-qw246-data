@@ -1,0 +1,5 @@
+participant_id,age,gender,education,occupation,vr_experience,haptic_experience,hand_dominance
+P01,23,M,Masters,Student,None,None,Right
+P02,25,F,Bachelors,Engineer,Limited,None,Right
+# Add remaining 22 participants data here
+# This is a placeholder file - replace with actual data from thesis

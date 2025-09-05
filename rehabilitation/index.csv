@@ -1,0 +1,27 @@
+,,
+,Title,"Research data supporting ""Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves"""
+,Publication,Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves
+,Conference,IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces
+,Authors,Qisong Wang
+,,Bo Kang
+,,Per Ola Kristensson
+,Description,"Participant data corresponding to experiments described in ""Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves"".  See publication for detailed description of experimental conditions and metrics."
+,Keywords,"virtual reality, haptic devices"
+,Format,.xlsx
+,,
+,Tab,Description
+,S1 - DEMO,Participants' demographic data in Study 1
+,S1 - ATTITUDES1,Participants' attitudes towards the system before playing the game in Study 1
+,S1 - EXPERIENCE1,Participants' experience ratings for game subtask 1 in Study 1
+,S1 - EXPERIENCE2,Participants' experience ratings for game subtask 2 in Study 1
+,S1 - EXPERIENCE3,Participants' experience ratings for game subtask 3 in Study 1
+,S1 - ATTITUDES2,Participants' attitudes towards the system after playing the game in Study 1
+,S1 - SSQ,Participants' responses to standard Simulator Sickness Questionnaire (SSQ) after playing the game in Study 1
+,S2 - DEMO,Participants' demographic data in Study 2
+,S2 - ATTITUDES1,Participants' attitudes towards the system before playing the game in Study 2
+,S2 - EXPERIENCE1,Participants' experience ratings for game subtask 1 in Study 2
+,S2 - EXPERIENCE2,Participants' experience ratings for game subtask 2 in Study 2
+,S2 - EXPERIENCE3,Participants' experience ratings for game subtask 3 in Study 2
+,S2 - ATTITUDES2,Participants' attitudes towards the system after playing the game in Study 2
+,S2 - SSQ,Participants' responses to standard Simulator Sickness Questionnaire (SSQ) after playing the game in Study 2
+,S2 - NASATLX,Participants' responses to standard NASA Task Load Index (NASA-TLX) questionnarie after playing the game in Study 2
