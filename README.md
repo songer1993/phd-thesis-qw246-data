@@ -12,34 +12,47 @@ This repository contains the complete experimental datasets from three studies i
 
 ## Dataset Structure
 
-### 1. JND_Study/
+### 1. jnd/
 **Just Noticeable Differences in Virtual Stiffness Perception**
-- `participant_demographics.csv`: Demographic information for 24 participants
-- `nasa_tlx_scores.csv`: NASA Task Load Index scores for both reference conditions
-- `trial_data.csv`: Complete trial-by-trial stiffness discrimination data
-- `psychometric_functions.csv`: Fitted psychometric function parameters
+- `DEMO.csv`: Demographic information for 24 participants
+- `NASATLX.csv`: NASA Task Load Index scores for both reference conditions  
+- `PARTICIPANT_TRIALS.csv`: Complete trial-by-trial stiffness discrimination data
+- `index.csv`: Study metadata and experimental parameters
 
 **Key Findings:** Weber fractions of 48.1% (low reference) and 26.3% (high reference)
 
-### 2. Virtual_Tools_Study/
+### 2. virtual_tools/
 **Tool-Mediated Virtual Grasping with Force Feedback**
-- `participant_demographics.csv`: Demographic data for 52 participants
-- `trial_performance.csv`: 6,720 trials of task performance data
-- `force_measurements.csv`: Grip force measurements across conditions
-- `nasa_tlx_scores.csv`: Workload assessment data
-- `experience_ratings.csv`: User experience questionnaire responses
+- `DEMO.csv`: Demographic data for 52 participants
+- `PARTICIPANT_TRIALS.csv`: 6,720 trials of task performance and force measurement data
+- `NASATLX.csv`: Workload assessment data
+- `EXPERIENCE.csv`: User experience questionnaire responses
+- `index.csv`: Study metadata and experimental parameters
 
 **Key Findings:** Force feedback reduced grip force by 4.7-6.2% across tool weights
 
-### 3. VR_Rehabilitation_Study/
+### 3. rehabilitation/
 **Playful Rehabilitation using VR and Force Feedback**
-- `study1_demographics.csv`: Study 1 participant information (n=7)
-- `study2_demographics.csv`: Study 2 participant information (n=14)
-- `attitude_measures.csv`: Pre/post attitude assessments
-- `task_performance.csv`: Performance metrics for three rehabilitation tasks
-- `engagement_metrics.csv`: Playfulness and engagement scores
-- `ssq_scores.csv`: Simulator Sickness Questionnaire results
-- `expert_assessments.csv`: Physical therapist evaluation data
+
+**Study 1 (n=7):**
+- `S1 - DEMO.csv`: Participant demographics
+- `S1 - ATTITUDES1.csv`: Pre-study attitude assessments
+- `S1 - ATTITUDES2.csv`: Post-study attitude assessments
+- `S1 - EXPERIENCE1.csv`: Subtask 1 experience ratings
+- `S1 - EXPERIENCE2.csv`: Subtask 2 experience ratings
+- `S1 - EXPERIENCE3.csv`: Subtask 3 experience ratings
+- `S1 - SSQ.csv`: Simulator Sickness Questionnaire results
+
+**Study 2 (n=14):**
+- `S2 - DEMO.csv`: Participant demographics
+- `S2 - ATTITUDES1.csv`: Pre-study attitude assessments
+- `S2 - ATTITUDES2.csv`: Post-study attitude assessments
+- `S2 - EXPERIENCE1.csv`: Subtask 1 experience ratings
+- `S2 - EXPERIENCE2.csv`: Subtask 2 experience ratings
+- `S2 - EXPERIENCE3.csv`: Subtask 3 experience ratings
+- `S2 - NASATLX.csv`: NASA Task Load Index scores
+- `S2 - SSQ.csv`: Simulator Sickness Questionnaire results
+- `index.csv`: Combined study metadata
 
 **Key Findings:** Achieved 8.36/10 playfulness score and 78.6% symptom-free rate
 
