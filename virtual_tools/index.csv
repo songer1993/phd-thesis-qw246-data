@@ -1,11 +1,12 @@
 ,Title,"Enabling Virtual Grasping using VR and Force Feedback Gloves"
 ,Authors,Qisong Wang
 ,,Per Ola Kristensson
-,Description,"Experimental data from a study investigating virtual grasping using VR and force feedback gloves. The study examined participants' performance in grasping tasks with different mass conditions and force feedback settings."
+,Description,"Anonymised participant-level CSV data from a study investigating virtual grasping using VR and force feedback gloves. The study examined task performance and subjective responses under different mass conditions and force feedback settings."
 ,Keywords,"virtual reality, haptic devices, force feedback, virtual grasping"
 ,Format,.csv
 ,,
 ,File,Description
 ,DEMO.csv,Participants' demographic information including age, gender, and relevant background
 ,EXPERIENCE.csv,Participants' experience data including task completion ratings and feedback
-,PARTICIPANT_TRIALS.csv,"Raw trial data for all participants, including mass conditions (100g-400g), attempt durations, task completion times, and error counts for each trial" 
+,NASATLX.csv,Participants' NASA Task Load Index workload responses after the task
+,PARTICIPANT_TRIALS.csv,"Trial-level task summaries for all participants, including mass conditions (100g-400g), attempt durations, task completion times, and error counts for each trial"

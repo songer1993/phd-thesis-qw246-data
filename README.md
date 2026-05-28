@@ -8,28 +8,28 @@
 
 ## Overview
 
-This repository contains the complete experimental datasets from three studies investigating force feedback in virtual reality environments. The data supports the findings presented in the PhD thesis titled "Enhancing Virtual Reality Interactions through Force Feedback: Perception, Tools, and Therapeutic Applications."
+This repository contains anonymised participant-level datasets from three studies investigating force feedback in virtual reality environments. The data supports the findings presented in the PhD thesis titled "Enhancing Virtual Reality Interactions through Force Feedback: Perception, Tools, and Therapeutic Applications."
 
 ## Dataset Structure
 
 ### 1. jnd/
 **Just Noticeable Differences in Virtual Stiffness Perception**
-- `DEMO.csv`: Demographic information for 24 participants
+- `DEMO.csv`: Demographic information for 24 recruited participants
 - `NASATLX.csv`: NASA Task Load Index scores for both reference conditions  
-- `PARTICIPANT_TRIALS.csv`: Complete trial-by-trial stiffness discrimination data
+- `PARTICIPANT_TRIALS.csv`: Trial-by-trial stiffness discrimination data
 - `index.csv`: Study metadata and experimental parameters
 
-**Key Findings:** Weber fractions of 48.1% (low reference) and 26.3% (high reference)
+**Reported thesis/publication findings:** Weber fractions of 48.1% (low reference) and 26.3% (high reference), based on 23 analysed participants after one outlier exclusion.
 
 ### 2. virtual_tools/
 **Tool-Mediated Virtual Grasping with Force Feedback**
 - `DEMO.csv`: Demographic data for 52 participants
-- `PARTICIPANT_TRIALS.csv`: 6,720 trials of task performance and force measurement data
+- `PARTICIPANT_TRIALS.csv`: Trial-level task summaries with mass condition, attempt durations, task completion time, and error count
 - `NASATLX.csv`: Workload assessment data
 - `EXPERIENCE.csv`: User experience questionnaire responses
 - `index.csv`: Study metadata and experimental parameters
 
-**Key Findings:** Force feedback reduced grip force by 4.7-6.2% across tool weights
+**Reported thesis findings:** Force feedback reduced normalised grip force by 12.0-13.2% across object masses. The CSV files here contain task summaries and questionnaire responses, not raw force-profile time series.
 
 ### 3. rehabilitation/
 **Playful Rehabilitation using VR and Force Feedback**
@@ -60,20 +60,19 @@ This repository contains the complete experimental datasets from three studies i
 
 All datasets are provided in CSV format with UTF-8 encoding. Each file includes:
 - Header row with variable names
-- Consistent participant ID coding across files
-- Missing data coded as 'NA'
-- Timestamps in ISO 8601 format where applicable
+- Internal participant ID coding for linking rows within each study
+- Anonymised or pseudonymised participant-level records
 
 ## Variable Definitions
 
-Detailed variable definitions and measurement units are provided in `codebook.pdf` within each study folder.
+Variable names are provided in the CSV header rows and study metadata in each `index.csv`. Detailed methodology and measurement definitions are provided in the associated thesis chapters and Appendix 2.
 
 ## Ethics and Data Protection
 
-- Ethics approval: UCL Research Ethics Committee (Project ID: 17833/003)
-- All data has been anonymized according to GDPR requirements
-- Participant consent obtained for data sharing
-- No personally identifiable information is included
+- Ethics review: Ethics Committee of the Department of Engineering, University of Cambridge.
+- Thesis Appendix 2 lists study protocols 20200710 (JND), 20210816 (Virtual Tools), and 20210526 (VR Rehabilitation).
+- Participant materials state that anonymised results may be published and presented. Consent forms state that data gathered in the studies may be stored anonymously and securely and used for future research.
+- No direct participant identifiers are included in the CSV files.
 
 ## Usage and Citation
 
@@ -97,11 +96,12 @@ If you use this data in your research, please cite:
 For questions about the data or collaboration opportunities:
 - **Primary Author:** Qisong Wang (qw246@cam.ac.uk)
 - **Department:** Department of Engineering, University of Cambridge
-- **Supervisor:** [Supervisor name to be added]
+- **Supervisor:** Prof Per Ola Kristensson
 
 ## Version History
 
+- v1.1 (2026-05): Corrected ethics reviewer, consent wording, file-description, and force-feedback result summaries.
 - v1.0 (2025-09): Initial release for thesis submission
 
 ---
-*Last updated: September 2025*
+*Last updated: May 2026*

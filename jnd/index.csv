@@ -6,6 +6,6 @@
 ,Format,.csv
 ,,
 ,File,Description
-,DEMO.csv,"Demographic information for all participants (15-24), including age, education level, occupation, order group (A/B), and prior experience with VR devices and force feedback gloves"
-,NASATLX.csv,"NASA Task Load Index data for both conditions (High/Low Reference Stiffness), including ratings (0-10) for mental demand, physical demand, temporal demand, effort, frustration, and performance, plus pairwise comparisons between dimensions"
-,PARTICIPANT_TRIALS.csv,"Combined trial data for all participants (15-24), including participant ID, order group (A/B), condition (High/Low Reference Stiffness), trial number, reference stiffness (0.4/0.1), test stiffness, stiffness difference (%), trial duration (s), catch trial flag, and response correctness" 
+,DEMO.csv,"Demographic information for 24 recruited participants, including age, education level, occupation, order group (A/B), and prior experience with VR devices and force feedback gloves"
+,NASATLX.csv,"NASA Task Load Index data for both conditions (High/Low Reference Stiffness), including ratings (0-100) for mental demand, physical demand, temporal demand, effort, frustration, and performance, plus pairwise comparisons between dimensions"
+,PARTICIPANT_TRIALS.csv,"Combined trial data for the 24 recruited participants, including participant ID, order group (A/B), condition (High/Low Reference Stiffness), trial number, reference stiffness (0.4/0.1), test stiffness, stiffness difference (%), trial duration (s), catch trial flag, response correctness, truth switch position, and selected switch position"
