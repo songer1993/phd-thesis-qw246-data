@@ -1,11 +1,13 @@
 ,,
-,Title,"Research data supporting ""Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves"""
-,Publication,Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves
-,Conference,IEEE VR 2022: the 29th IEEE Conference on Virtual Reality and 3D User Interfaces
+,Title,"Research data supporting ""Supporting Playful Rehabilitation in the Home Using Virtual Reality Headsets and Force Feedback Gloves"""
+,Publication,Supporting Playful Rehabilitation in the Home Using Virtual Reality Headsets and Force Feedback Gloves
+,Full citation,"Wang, Q., Kang, B. and Kristensson, P. O. (2022). Supporting Playful Rehabilitation in the Home Using Virtual Reality Headsets and Force Feedback Gloves. In 2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), pages 504--513. IEEE. DOI: 10.1109/VR51125.2022.00070"
+,DOI,10.1109/VR51125.2022.00070
+,Conference,2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)
 ,Authors,Qisong Wang
 ,,Bo Kang
 ,,Per Ola Kristensson
-,Description,"Participant data corresponding to experiments described in ""Supporting Playful Rehabilitation in the Home using Virtual Reality Headsets and Force Feedback Gloves"".  See publication for detailed description of experimental conditions and metrics."
+,Description,"Anonymised participant-level CSV data corresponding to experiments described in ""Supporting Playful Rehabilitation in the Home Using Virtual Reality Headsets and Force Feedback Gloves"". See the associated publication for detailed description of experimental conditions and metrics."
 ,Keywords,"virtual reality, haptic devices"
 ,Format,.csv
 ,,

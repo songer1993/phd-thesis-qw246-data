@@ -4,7 +4,7 @@
 **Author:** Qisong Wang  
 **Institution:** Department of Engineering, University of Cambridge  
 **Thesis Year:** 2025  
-**Contact:** [qw246@cam.ac.uk](mailto:qw246@cam.ac.uk)
+**Contact:** [qisongwang@outlook.com](mailto:qisongwang@outlook.com)
 
 ## Overview
 
@@ -94,7 +94,7 @@ If you use this data in your research, please cite:
 ## Contact
 
 For questions about the data or collaboration opportunities:
-- **Primary Author:** Qisong Wang (qw246@cam.ac.uk)
+- **Primary Author:** Qisong Wang (qisongwang@outlook.com)
 - **Department:** Department of Engineering, University of Cambridge
 - **Supervisor:** Prof Per Ola Kristensson
 
